@@ -1,0 +1,3 @@
+br/com/marcobilotta/todolist/model/UserModel.class
+br/com/marcobilotta/todolist/controller/UserController.class
+br/com/marcobilotta/todolist/TodolistApplication.class
